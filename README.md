@@ -12,3 +12,8 @@ football
 ## Favorite Food
 noodle
 steak
+dog
+## Favorite Activities
+play game
+football
+
