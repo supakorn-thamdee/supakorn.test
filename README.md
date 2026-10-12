@@ -5,3 +5,7 @@ supakorn thamdee
 
 ## about  me
 we just look for the first but we look alike.
+
+# Our Favorite Things
+## Favorite Food
+noodle
